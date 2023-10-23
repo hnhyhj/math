@@ -18,6 +18,7 @@
 * [2012](algebra/2012.md)
 * [2011](algebra/2011.md)
 * [2010](algebra/2010.md)
+* [2009](algebra/2009.md)
 
 ## Counting
 
@@ -32,6 +33,7 @@
 * [2014](counting/2014.md)
 * [2013](counting/2013.md)
 * [2012](counting/2012.md)
+* [2009](counting/2009.md)
 
 ## Geometry
 
@@ -48,6 +50,7 @@
 * [2012](geometry/2012.md)
 * [2011](geometry/2011.md)
 * [2010](geometry/2010.md)
+* [2009](geometry/2009.md)
 
 ## Number Theory
 
@@ -64,6 +67,7 @@
 * [2012](number-theory/2012.md)
 * [2011](number-theory/2011.md)
 * [2010](number-theory/2010.md)
+* [2009](number-theory/2009.md)
 
 ## Misc
 
