@@ -35,6 +35,7 @@
 * [2013](counting/2013.md)
 * [2012](counting/2012.md)
 * [2009](counting/2009.md)
+* [2008](counting/2008.md)
 
 ## Geometry
 
@@ -52,6 +53,7 @@
 * [2011](geometry/2011.md)
 * [2010](geometry/2010.md)
 * [2009](geometry/2009.md)
+* [2008](geometry/2008.md)
 
 ## Number Theory
 
