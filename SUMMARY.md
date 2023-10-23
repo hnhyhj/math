@@ -19,6 +19,7 @@
 * [2011](algebra/2011.md)
 * [2010](algebra/2010.md)
 * [2009](algebra/2009.md)
+* [2008](algebra/2008.md)
 
 ## Counting
 
@@ -68,6 +69,7 @@
 * [2011](number-theory/2011.md)
 * [2010](number-theory/2010.md)
 * [2009](number-theory/2009.md)
+* [2008](number-theory/2008.md)
 
 ## Misc
 
