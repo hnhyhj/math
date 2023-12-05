@@ -36,6 +36,10 @@
 
 <figure><img src="../.gitbook/assets/截屏2022-12-28 下午9.59.44.png" alt=""><figcaption></figcaption></figure>
 
+## 2012 1b
+
+<figure><img src="../.gitbook/assets/截屏2023-12-05 下午3.03.04.png" alt=""><figcaption></figcaption></figure>
+
 ## 2012 7b
 
 <figure><img src="../.gitbook/assets/截屏2022-12-30 上午10.54.48.png" alt=""><figcaption></figcaption></figure>
