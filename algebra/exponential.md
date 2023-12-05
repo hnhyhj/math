@@ -11,3 +11,11 @@
 ## 2012 6b
 
 <figure><img src="../.gitbook/assets/截屏2022-12-30 上午10.30.02.png" alt=""><figcaption></figcaption></figure>
+
+## 2010 1a
+
+<figure><img src="../.gitbook/assets/截屏2023-12-05 下午4.08.10.png" alt=""><figcaption></figcaption></figure>
+
+## 2010 1b
+
+<figure><img src="../.gitbook/assets/截屏2023-12-05 下午4.08.40.png" alt=""><figcaption></figcaption></figure>
