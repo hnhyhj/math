@@ -1,5 +1,9 @@
 # Factor and Equation
 
+## 2023 A5
+
+<figure><img src="../.gitbook/assets/截屏2024-06-03 下午3.02.04.png" alt=""><figcaption></figcaption></figure>
+
 ## 2022 A2
 
 <figure><img src="../.gitbook/assets/截屏2023-06-16 下午5.34.51.png" alt=""><figcaption></figcaption></figure>

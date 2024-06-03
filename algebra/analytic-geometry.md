@@ -1,5 +1,13 @@
 # Analytic Geometry
 
+## 2023 A3
+
+<figure><img src="../.gitbook/assets/截屏2024-06-03 下午3.00.52.png" alt=""><figcaption></figcaption></figure>
+
+## 2023 B2
+
+<figure><img src="../.gitbook/assets/截屏2024-06-03 下午2.57.19.png" alt=""><figcaption></figcaption></figure>
+
 ## 2022 B1
 
 <figure><img src="../.gitbook/assets/截屏2023-06-16 下午5.08.26.png" alt=""><figcaption></figcaption></figure>
