@@ -1,5 +1,21 @@
 # Analytic
 
+## 2024 3a
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.38.06.png" alt=""><figcaption></figcaption></figure>
+
+## 2024 4b
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.34.57.png" alt=""><figcaption></figcaption></figure>
+
+## 2024 5b
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.33.34.png" alt=""><figcaption></figcaption></figure>
+
+## 2024 10
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.28.01.png" alt=""><figcaption></figcaption></figure>
+
 ## 2023 2
 
 <figure><img src="../.gitbook/assets/截屏2023-06-16 下午4.48.15.png" alt=""><figcaption></figcaption></figure>

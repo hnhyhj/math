@@ -1,5 +1,9 @@
 # Equation
 
+## 2024 1
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午11.19.24.png" alt=""><figcaption></figcaption></figure>
+
 ## 2023 1
 
 <figure><img src="../.gitbook/assets/截屏2023-06-16 下午4.59.29.png" alt=""><figcaption></figcaption></figure>

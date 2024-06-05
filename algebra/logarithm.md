@@ -1,5 +1,9 @@
 # Logarithm
 
+## 2024 8b
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.29.16.png" alt=""><figcaption></figcaption></figure>
+
 ## 2023 8b
 
 <figure><img src="../.gitbook/assets/截屏2023-06-16 下午3.51.48 (1).png" alt=""><figcaption></figcaption></figure>

@@ -1,5 +1,9 @@
 # Counting
 
+## 2024 9
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.28.33.png" alt=""><figcaption></figcaption></figure>
+
 ## 2023 7a
 
 <figure><img src="../.gitbook/assets/截屏2023-06-16 下午3.52.17.png" alt=""><figcaption></figcaption></figure>

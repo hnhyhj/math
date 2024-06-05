@@ -1,5 +1,9 @@
 # Number Theory
 
+## 2024 6a
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.32.28.png" alt=""><figcaption></figcaption></figure>
+
 ## 2023 3a
 
 <figure><img src="../.gitbook/assets/截屏2023-06-16 下午4.57.12.png" alt=""><figcaption></figcaption></figure>

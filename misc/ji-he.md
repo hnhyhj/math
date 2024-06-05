@@ -1,5 +1,9 @@
 # 集合
 
+## 2024 6b
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.31.52.png" alt=""><figcaption></figcaption></figure>
+
 ## 2015 10
 
 <figure><img src="../.gitbook/assets/截屏2022-11-21 下午9.49.08.png" alt=""><figcaption></figcaption></figure>

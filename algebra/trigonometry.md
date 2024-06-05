@@ -1,5 +1,9 @@
 # Trigonometry
 
+## 2024 7b
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.30.34.png" alt=""><figcaption></figcaption></figure>
+
 ## 2023 5b
 
 <figure><img src="../.gitbook/assets/截屏2023-06-16 下午4.42.48.png" alt=""><figcaption></figcaption></figure>

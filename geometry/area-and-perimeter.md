@@ -1,5 +1,9 @@
 # Area and Perimeter
 
+## 2024 5a
+
+<figure><img src="../.gitbook/assets/截屏2024-06-04 上午9.34.31.png" alt=""><figcaption></figcaption></figure>
+
 ## 2019 9b
 
 <figure><img src="../.gitbook/assets/截屏2022-12-30 下午12.37.34.png" alt=""><figcaption></figcaption></figure>
