@@ -5,6 +5,7 @@
 * [Exponent](README.md)
 * [Logrithm](algebra/untitled.md)
 * [Trigonometry](algebra/trigonometry.md)
+* [Sequence](algebra/sequence.md)
 
 ## Geometry
 
