@@ -1,5 +1,9 @@
 # Counting
 
+## 2024 A6
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-07 at 1.01.35 PM.png" alt=""><figcaption></figcaption></figure>
+
 ## 2022 A6
 
 <figure><img src="../.gitbook/assets/截屏2023-06-16 下午5.09.05.png" alt=""><figcaption></figcaption></figure>

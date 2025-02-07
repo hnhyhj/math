@@ -1,5 +1,9 @@
 # Number Theory
 
+## 2024 B3
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-07 at 1.01.00 PM.png" alt=""><figcaption></figcaption></figure>
+
 ## 2023 A1
 
 <figure><img src="../.gitbook/assets/截屏2024-06-03 下午2.58.47.png" alt=""><figcaption></figcaption></figure>

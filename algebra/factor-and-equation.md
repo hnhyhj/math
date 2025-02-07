@@ -1,5 +1,9 @@
 # Factor and Equation
 
+## 2024 B2
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-07 at 1.00.16 PM.png" alt=""><figcaption></figcaption></figure>
+
 ## 2023 A5
 
 <figure><img src="../.gitbook/assets/截屏2024-06-03 下午3.02.04.png" alt=""><figcaption></figcaption></figure>
