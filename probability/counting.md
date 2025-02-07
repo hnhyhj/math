@@ -1,5 +1,9 @@
 # Counting
 
+## 2024 A4
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-07 at 1.12.35 PM.png" alt=""><figcaption></figcaption></figure>
+
 ## 2024 A6
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-07 at 1.01.35 PM.png" alt=""><figcaption></figcaption></figure>
